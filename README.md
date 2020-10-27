@@ -1,2 +1,2 @@
 # NPLC
-REPO TAKEOVER BY TUSHAR BHARDWAJ :)
+<!-- PoC by Tushar Bhardwaj -->
