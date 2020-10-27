@@ -1,2 +1,2 @@
 # NPLC
-<!-- PoC by Tushar Bhardwaj -->
+PoC by Tushar Bhardwaj
